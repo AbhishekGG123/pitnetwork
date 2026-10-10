@@ -1,0 +1,26 @@
+
+> next-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 568ms
+✓ Running next.config.ts took 46ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+○ Compiling / ...
+ GET / 200 in 1589ms (next.js: 671ms, application-code: 919ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead.
+ GET /gamemodes 200 in 133ms (next.js: 13ms, application-code: 120ms)
+ GET /leaderboard 200 in 85ms (next.js: 10ms, application-code: 76ms)
+ GET /store 200 in 105ms (next.js: 10ms, application-code: 95ms)
+✓ Compiled in 25ms
+ GET / 200 in 62ms (next.js: 3ms, application-code: 59ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead.
+ GET /gamemodes 200 in 98ms (next.js: 1.9ms, application-code: 96ms)
+ GET /leaderboard 200 in 60ms (next.js: 1.8ms, application-code: 58ms)
+ GET /store 200 in 84ms (next.js: 2ms, application-code: 82ms)
